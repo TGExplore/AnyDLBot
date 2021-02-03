@@ -224,7 +224,7 @@ async def echo(bot, update):
                 inline_keyboard.append([
                     InlineKeyboardButton(
                         "MP3 " + "(" + "64 kbps" + ")", callback_data=cb_string_64.encode("UTF-8")),
-                    pyrogram.InlineKeyboardButton(
+                    InlineKeyboardButton(
                         "MP3 " + "(" + "128 kbps" + ")", callback_data=cb_string_128.encode("UTF-8"))
                 ])
                 inline_keyboard.append([
