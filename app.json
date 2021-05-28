@@ -1,5 +1,5 @@
 {
-  "name": "TG URL Uploader",
+  "name": "Leo URL Uploader",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "website": "https://github.com/Naviya2/TG-URL-Uploader",
+  "repository": "https://github.com/Naviya2/TG-URL-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -50,7 +50,7 @@
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
       "value": "",
-      "required": false
+      "required": true
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
