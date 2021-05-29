@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """<b>Hi {}</b> 👋
+    START_TEXT = """<b>Hi[{}](tg://user?id={})</b> 👋
 <b>You are warmly welcome to Leo Any Downloader Bot</b> 🇱🇰
 
 <b>Please send me any direct download URL Link, i can upload it to telegram as File/Video</b>
@@ -8,8 +8,7 @@ Use /help Command To get help Menu 😶
 
 Made By : @naviya2 🇱🇰
 Updates Channel : @new_ehi 🇱🇰
-Support Group : @leosupportx 🇱🇰
-© @naviya2 , @new_ehi & @leosupportx"""
+Support Group : @leosupportx 🇱🇰"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish😐."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
