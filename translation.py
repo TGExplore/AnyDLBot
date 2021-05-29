@@ -57,7 +57,7 @@ Support Group : @leosupportx 🇱🇰
     REPLY_TO_DOC_GET_LINK = "මෙහෙම reply කරන්න media file එකකට එතකොට අදාල direct download link එක ඉක්මනටම ගන්න පුලුවන්😊"
     REPLY_TO_DOC_FOR_C2V = "මෙහෙම reply කරහම අදාල media file එක convert කරගන්න පුලුවන්😶"
     REPLY_TO_DOC_FOR_SCSS = "Reply "
-    REPLY_TO_DOC_FOR_RENAME_FILE = "මෙහෙම reply කරහම  /rename කරගන්න වගේම custom thumbnail support එකද ලබාගත හැකිය😊
+    REPLY_TO_DOC_FOR_RENAME_FILE = "මෙහෙම reply කරහම  /rename කරගන්න වගේම custom thumbnail support එකද ලබාගත හැකිය😊"
     AFTER_GET_DL_LINK = "Direct Link <a href='{}'>Generated</a> valid for {} days.\n© @leourluploadbot 🇱🇰"
     FF_MPEG_RO_BOT_RE_SURRECT_ED = """Syntax: /trim HH:MM:SS [HH:MM:SS]"""
     FF_MPEG_RO_BOT_STEP_TWO_TO_ONE = "පලමුව /downloadmedia ලෙස ඕනම telegram media file එකකට reply කරහම ඒ media file එක local මට ඩවුන්ලෝඩ් කරන්න පුලුවන්. \n /storageinfo ලෙස යැවූ විට ඩවුලෝඩ් කල media file එක ගැන තොරතුරු දැන ගත හැකිය."
