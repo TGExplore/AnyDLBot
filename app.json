@@ -15,9 +15,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/leoanydlbot",
-  "website": "https://github.com/Naviya2/LeoAnyDLBot",
-  "repository": "https://github.com/Naviya2/LeoAnyDLBot",
+  "success_url": "https://telegram.dog/AnyDLBot",
+  "website": "https://github.com/SpEcHiDe/AnyDLBot",
+  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
