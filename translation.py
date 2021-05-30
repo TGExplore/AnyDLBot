@@ -1,5 +1,11 @@
 class Translation(object):
-    START_TEXT = """DL bot by V0ltron"""
+    START_TEXT = """<b>Hi[{}](tg://user?id={})</b> 👋
+<b>You are warmly welcome to Leo Any Downloader Bot</b> 🇱🇰
+<b>Please send me any direct download URL Link, i can upload it to telegram as File/Video</b>
+Use /help Command To get help Menu 😶
+Made By : @naviya2 🇱🇰
+Updates Channel : @new_ehi 🇱🇰
+Support Group : @leosupportx 🇱🇰"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "This bot is free to use if u r V0ltron friend"
@@ -26,9 +32,13 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: 2TB per month
-Expires on: 10/8/2099"""
-    HELP_USER = """I can do some work
+Plan name: Free User of Leo Projects 🇱🇰
+Expires on: No Expiry \nඅපෙන් පමණයි🇱🇰"""
+    HELP_USER = """Hello 👋 I am Leo Any Downloader Bot 🇱🇰 I can Download any media from most of the sites😶
+    
+Developer : @naviya2 🇱🇰
+Updates Channel : @new_ehi 🇱🇰
+Support Group : @leosupportx 🇱🇰
 --------
 Send /me to know current plan details"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
