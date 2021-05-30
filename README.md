@@ -1,68 +1,48 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Leo Any Downloader Bot 🇱🇰
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
+<p align="center">
+  <img src="https://telegra.ph/file/61d947f9b545e348e42ba.jpg"></p>
+My Features:
 
-## Credits, and Thanks to
+👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
 
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+👉 Upload as file from any HTTP link
 
 ### Installation
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+#### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Naviya2/LeoAnyDLBot/tree/Naviya_Official)
+
+Join Our updates channel to get in touch with us * [Updates Channel](https://telegram.dog/new_ehi)
 
 #### The Hard Way
 
-```sh
+sh
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
 pip install -r requirements.txt
-# <Create config.py with variables as given below>
+cp sample_config.py config.py
+--- EDIT config.py values appropriately ---
 python bot.py
-```
 
-An example `config.py` file could be:
+## Our Telegram Channel and Group
 
-**Not All of the variables are mandatory**
+* [Leo Updates Channel](https://telegram.dog/new_ehi) 🇱🇰
+* [Leo All in One Bot](https://telegram.dog/leoinlinesearchbot) 🇱🇰
+* [Leo Support Group](https://telegram.dog/leosupportx) 🇱🇰
 
-```python3
-from sample_config import Config
+## Credits, and Thanks to
 
-class Development(Config):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-  TG_BOT_TOKEN = ""
-  AUTH_USERS = [
-      "7351948"
-      # is a string for LEGACY purposes
-  ]
-```
+* [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
+* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-### [@BotFather](https://telegram.dog/BotFather) Commands
-
-```
-start - Check if the Bot is Online!
-help - How to use this Bot?
-me - Check Your Subscription
-upgrade - Upgrade your status
-deletethumbnail - Delete/Cleared saved Custom Thumbnail
-getlink - Get Low Speed Direct Download Link
-converttoaudio - Convert Video Files in Telegram Audio
-converttovideo - Convert to Streamable Video
-rename - (Long Press) and Rename Telegram File
-ffmpegrobot - Get Info
-trim - (Long Press) and Enter Timestamp
-downloadmedia - Download media to storage
-storageinfo - Get Info about currently saved Files
-clearffmpegmedia - Clear stored media from Telegram
-generatecustomthumbnail - Generate customer thumbnail
-generatescss - Get Screenshot of Telegram Media
-```
-
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to say in [Support Group](https://telegram.dog/leosupportx) 🇱🇰
 
 #### LICENSE
 - GPLv3
