@@ -1,13 +1,16 @@
 class Translation(object):
-    START_TEXT = """Hello,
-This is a Telegram URL Upload Bot!
+    START_TEXT = """<b>Hello</b>👋
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+<b>You are warmly welcome to Leo Any Downloader Bot</b> 🇱🇰
 
-/help for more details..
+<b>Please send me any direct download URL Link, i can upload it to telegram as File/Video</b>
 
-Support Group : @InFoTelGroup
-© @SpEcHlDe , @TGBotsZ & @CWProjects"""
+Use /help Command To get help Menu 😶
+
+
+Made By : @naviya2 🇱🇰
+Updates Channel : @new_ehi 🇱🇰
+Support Group : @leosupportx 🇱🇰"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -35,8 +38,8 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
-Expires on: 31/12/2020"""
-    HELP_USER = """Hai am URL Uploader bot..
+Expires on: No expiry only from @leoanydlbot"""
+    HELP_USER = """Hi am Leo Any Downloader Bot🇱🇰..
     
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -46,13 +49,13 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
 
 --------
 Send /me to know current plan details
 
-Support Group : @InFoTelGroup
-© @TGBotsZ"""
+Developer : @naviya2 🇱🇰
+Updates Channel : @new_ehi 🇱🇰
+Support Group : @leosupportx 🇱🇰"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
